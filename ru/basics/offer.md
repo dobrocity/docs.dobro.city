@@ -1,15 +1,15 @@
 # ⛔ ЧЕРНОВИК ПУБЛИЧНОЙ ОФЕРТЫ ⛔
-о присоединении к Проекту «[methodology.city](https://methodology.city)»
+о присоединении к Проекту «[dobro.city](https://dobro.city)»
 
 **Дата размещения оферты:** «07» января 2025 г.  
-**Место размещения оферты:** [wiki.methodology.city](https://wiki.methodology.city)
+**Место размещения оферты:** [wiki.dobro.city](https://wiki.dobro.city)
 
 ## 1. Общие положения
 
 ---
 
 ### 1.1. **Наименование проекта** 
-«[methodology.city](https://methodology.city)» (далее – «Проект»).
+«[dobro.city](https://dobro.city)» (далее – «Проект»).
 
 ### 1.2. **Форма**
 - Ликвидное децентрализованное сетевое общество на блокчейне Stellar.

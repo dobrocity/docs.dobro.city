@@ -1,6 +1,6 @@
 # Концепция
 
-[methodology.city](https://methodology.city) - это временное городское пространство (popup city), которое:
+[dobro.city](https://dobro.city) - это временное городское пространство (popup city), которое:
 
 - Создаётся на срок от одного до трех месяцев в выбранной локации
 - Включает инфраструктуру для проведения мероприятий
@@ -14,7 +14,7 @@
 
 ## Критерий успеха
 
-Критерием успеха проекта [methodology.city](https://methodology.city) является выход на прибыльность по итогам 2026 года. 
+Критерием успеха проекта [dobro.city](https://dobro.city) является выход на прибыльность по итогам 2026 года. 
 
 Под прибыльностью понимается разница между выручкой и расходами с учетом выплат процентов на использованный капитал. 
 
@@ -22,7 +22,7 @@
 
 ## Капитализация
 
-Капитализация проекта [methodology.city](https://methodology.city) определяется рыночной стоимостью всех выпущенных [LV-токенов](https://stellar.expert/explorer/public/asset/LV-GDJSY7FCYCIPF5VRFV3H7QLLWH4F2MFQXSXNZQKH35J57AFKI4276QDF).
+Капитализация проекта [dobro.city](https://dobro.city) определяется рыночной стоимостью всех выпущенных [LV-токенов](https://stellar.expert/explorer/public/asset/LV-GDJSY7FCYCIPF5VRFV3H7QLLWH4F2MFQXSXNZQKH35J57AFKI4276QDF).
 
 Целевая капитализация проекта составляет эквивалент 1 млн EUR в криптовалюте.
 
