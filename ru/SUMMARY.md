@@ -1,17 +1,10 @@
-# Table of contents
+# Содержание
 
-* [Welcome](README.md)
+* [Главная](README.md)
 
-## Getting Started
+## Учреждение
 
-* [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
-
-## Basics
-
-* [Editor](basics/editor.md)
-* [Markdown](basics/markdown.md)
-* [Images & media](basics/images-and-media.md)
-* [Interactive blocks](basics/interactive-blocks.md)
-* [OpenAPI](basics/openapi.md)
-* [Integrations](basics/integrations.md)
+* [Миссия](basics/mission.md)
+* [Концепция](basics/concept.md)
+* [Соучреждение](basics/cofound.md)
+* [Оферта](basics/offer.md)
