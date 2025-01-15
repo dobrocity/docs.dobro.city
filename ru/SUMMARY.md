@@ -11,4 +11,4 @@
 
 ## Договоры <a href="#contracts" id="contracts"></a>
 
-* [0001: Домен](contracts/0001-domen.md)
+* [Домен](contracts/domen.md)
