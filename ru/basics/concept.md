@@ -1,3 +1,7 @@
+---
+icon: network-wired
+---
+
 # Концепция
 
 [dobro.city](https://dobro.city) - это временное городское пространство (popup city), которое:
