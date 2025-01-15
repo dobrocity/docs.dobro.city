@@ -1,17 +1,18 @@
-# Table of contents
+# Table of Contents
 
-* [Welcome](README.md)
+* [Home](README.md)
 
-## Getting Started
+## Foundation
 
-* [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
+* [Mission](ru/basics/mission.md)
+* [Concept](ru/basics/concept.md)
+* [Co-founding](ru/basics/cofound.md)
 
-## Basics
 
-* [Editor](basics/editor.md)
-* [Markdown](basics/markdown.md)
-* [Images & media](basics/images-and-media.md)
-* [Interactive blocks](basics/interactive-blocks.md)
-* [OpenAPI](basics/openapi.md)
-* [Integrations](basics/integrations.md)
+## Offers
+* [LV](ru/offers/LV.md)
+* [KIND](offers/KIND.md)
+
+## Contracts <a href="#contracts" id="contracts"></a>
+
+* [Domain](ru/contracts/domen.md)
