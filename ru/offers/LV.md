@@ -6,7 +6,7 @@ icon: markdown
 о присоединении к Проекту «[dobro.city](https://dobro.city)»
 
 **Дата размещения оферты:** «07» января 2025 г.  
-**Место размещения оферты:** [wiki.dobro.city](https://wiki.dobro.city)
+**Место размещения оферты:** [docs.dobro.city](https://docs.dobro.city)
 
 ## 1. Общие положения
 
