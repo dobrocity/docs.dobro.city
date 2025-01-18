@@ -7,8 +7,8 @@
 * [Миссия](basics/mission.md)
 * [Концепция](basics/concept.md)
 * [Соучреждение](basics/cofound.md)
-* [Устав](/ru/basics/agreement.md)
-* [Пояснительная записка](/ru/basics/explainer.md)
+* [Устав](basics/agreement.md)
+* [Пояснительная записка](basics/explainer.md)
 
 ## Оферты
 
