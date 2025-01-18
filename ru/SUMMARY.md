@@ -7,6 +7,8 @@
 * [Миссия](basics/mission.md)
 * [Концепция](basics/concept.md)
 * [Соучреждение](basics/cofound.md)
+- [Устав](/ru/basics/agreement.md) - основной документ проекта
+- [Пояснительная записка](/ru/basics/explainer.md) - разъяснения к уставу
 
 ## Оферты
 
