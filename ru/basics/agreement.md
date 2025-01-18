@@ -1,3 +1,7 @@
+---
+icon: globe-pointer
+---
+
 # Устав dobro.city
 
 ## Счета
