@@ -12,10 +12,12 @@
 
 ## Оферты
 
-* [LV](offers/LV.md)
 * [KIND](offers/KIND.md)
 
 ## Договоры <a href="#contracts" id="contracts"></a>
 
-* [Устав](contracts/ustav.md)
 * [Домен](contracts/domen.md)
+
+## Архив
+
+* ~~[LV](archive/deprecated_LV.md)~~
