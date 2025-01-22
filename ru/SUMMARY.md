@@ -20,4 +20,4 @@
 
 ## Архив
 
-* ~~[LV](archive/deprecated_LV.md)~~
+* [LV](archive/deprecated_LV.md)
