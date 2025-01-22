@@ -25,7 +25,7 @@ Welcome to the documentation of [dobro.city](https://dobro.city) project!
 ## Main Sections
 
 ### Basic Information
-- [Project Mission](/ru/basics/mission.md) - our goals and values
+- [Project Mission](/basics/mission.md) - our goals and values
 - [Concept](/ru/basics/concept.md) - how the project works
 
 ### Legal Documents
