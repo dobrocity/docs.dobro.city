@@ -1,5 +1,6 @@
 ---
 description: О праве владения доменом dobro.city
+icon: apartment
 ---
 
 # Домен
