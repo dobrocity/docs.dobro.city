@@ -26,10 +26,9 @@ Welcome to the documentation of [dobro.city](https://dobro.city) project!
 
 ### Basic Information
 - [Project Mission](/basics/mission.md) - our goals and values
-- [Concept](/ru/basics/concept.md) - how the project works
+- [Charter](/basics/charter.md) - founding contract
 
 ### Legal Documents
-- [LV Tokens Public Offer](/ru/offers/LV.md) - terms of project participation
 - [KIND Tokens Offer](/offers/KIND.md) - terms of project support
 
 ---
