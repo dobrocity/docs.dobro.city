@@ -19,7 +19,8 @@
 * [Домен](contracts/domen.md)
 
 ## Гайдлайны
-- [Оценка вкладов](/ru/method/contribution.md)
+
+* [Оценка вкладов](/ru/method/contribution.md)
 
 ## Архив
 
