@@ -32,6 +32,9 @@ layout:
 ### Юридические документы
 - [Оферта KIND-токенов](/ru/offers/KIND.md) - условия поддержки проекта
 
+### Гайдлайны
+- [Оценка вкладов](/ru/method/contribution.md)
+
 ### Архив
 - ~~[Оферта LV-токенов](/ru/archive/deprecated_LV.md)~~
 
