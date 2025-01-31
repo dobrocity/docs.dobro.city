@@ -20,7 +20,7 @@
 
 ## Гайдлайны
 
-* [Оценка вкладов](/ru/method/contribution.md)
+* [Оценка вкладов](/method/contribution.md)
 
 ## Архив
 
