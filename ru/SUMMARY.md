@@ -18,6 +18,9 @@
 
 * [Домен](contracts/domen.md)
 
+## Гайдлайны
+- [Оценка вкладов](/ru/method/contribution.md)
+
 ## Архив
 
 * [LV](archive/deprecated_LV.md)
