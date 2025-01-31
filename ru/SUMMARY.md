@@ -9,6 +9,7 @@
 * [Соучреждение](basics/cofound.md)
 * [Устав](basics/charter.md)
 * [Пояснительная записка](basics/explainer.md)
+* [Дорожная карта](uchrezhdenie/dorozhnaya-karta.md)
 
 ## Оферты
 
@@ -20,7 +21,7 @@
 
 ## Гайдлайны
 
-* [Оценка вкладов](/method/contribution.md)
+* [Оценка вкладов](method/contribution.md)
 
 ## Архив
 
