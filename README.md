@@ -27,6 +27,7 @@ Welcome to the documentation of [dobro.city](https://dobro.city) project!
 ### Basic Information
 - [Project Mission](/basics/mission.md) - our goals and values
 - [Charter](/basics/charter.md) - founding contract
+- [FAQ](/basics/faq.md) - frequently asked questions answered
 
 ### Legal Documents
 - [KIND Tokens Offer](/offers/KIND.md) - terms of project support

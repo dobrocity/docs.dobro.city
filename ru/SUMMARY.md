@@ -10,7 +10,8 @@
 * [Устав](basics/charter.md)
 * [Пояснительная записка](basics/explainer.md)
 * [Дорожная карта](uchrezhdenie/dorozhnaya-karta.md)
-
+* [ЧаВо](basics/faq.md)
+  
 ## Оферты
 
 * [KIND](offers/KIND.md)
