@@ -18,6 +18,7 @@
 
 ## Договоры <a href="#contracts" id="contracts"></a>
 
+* [Посевной раунд](contracts/seed.md)
 * [Домен](contracts/domen.md)
 
 ## Гайдлайны
