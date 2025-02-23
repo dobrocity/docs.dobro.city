@@ -11,7 +11,8 @@
 * [Пояснительная записка](basics/explainer.md)
 * [Дорожная карта](uchrezhdenie/dorozhnaya-karta.md)
 * [ЧаВо](basics/faq.md)
-  
+* [Экспертный совет](uchrezhdenie/ekspertnyi-sovet.md)
+
 ## Оферты
 
 * [KIND](offers/KIND.md)
