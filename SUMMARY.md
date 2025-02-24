@@ -1,4 +1,4 @@
-# Table of Contents
+# Table of contents
 
 * [Home](README.md)
 
@@ -6,7 +6,8 @@
 
 * [Mission](basics/mission.md)
 * [Charter](basics/charter.md)
-* [Charter](basics/faq.md)
+* [FAQ](basics/faq.md)
 
 ## Offers
+
 * [KIND](offers/KIND.md)
