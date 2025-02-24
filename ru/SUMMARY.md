@@ -9,7 +9,6 @@
 * [Соучреждение](basics/cofound.md)
 * [Устав](basics/charter.md)
 * [Пояснительная записка](basics/explainer.md)
-* [Дорожная карта](uchrezhdenie/dorozhnaya-karta.md)
 * [ЧаВо](basics/faq.md)
 * [Экспертный Совет](uchrezhdenie/ekspertnyi-sovet.md)
 
