@@ -16,10 +16,6 @@
 
 * [KIND](offers/KIND.md)
 
-## Договоры <a href="#contracts" id="contracts"></a>
-
-* [Домен](contracts/domen.md)
-
 ## Гайдлайны
 
 * [Оценка вкладов](method/contribution.md)
