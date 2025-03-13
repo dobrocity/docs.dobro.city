@@ -1,6 +1,0 @@
----
-icon: timeline-arrow
----
-
-# История
-
