@@ -23,3 +23,7 @@
 ## Архив
 
 * [LV](archive/deprecated_LV.md)
+
+***
+
+* [История](istoriya.md)
