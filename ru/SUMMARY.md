@@ -23,4 +23,3 @@
 ## Архив
 
 * [LV](archive/deprecated_LV.md)
-* [История Монтелиберо](arkhiv/istoriya-montelibero.md)
