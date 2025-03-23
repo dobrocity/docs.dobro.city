@@ -14,7 +14,7 @@
 
 ## Соглашения <a href="#agreements" id="agreements"></a>
 
-* [Соглашение Лидеров](agreements/soglashenie-liderov.md)
+* [Лидеры](agreements/soglashenie-liderov.md)
 
 ## Оферты
 
