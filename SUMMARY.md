@@ -11,3 +11,7 @@
 ## Offers
 
 * [KIND](offers/KIND.md)
+
+## Agreements
+
+* [Leadership Agreement](agreements/leadership-agreement.md)
