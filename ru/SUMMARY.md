@@ -12,6 +12,10 @@
 * [ЧаВо](basics/faq.md)
 * [Экспертный Совет](uchrezhdenie/ekspertnyi-sovet.md)
 
+## Соглашения <a href="#agreements" id="agreements"></a>
+
+* [Соглашение Лидеров](agreements/soglashenie-liderov.md)
+
 ## Оферты
 
 * [KIND](offers/KIND.md)
