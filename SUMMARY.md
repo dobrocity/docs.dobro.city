@@ -14,4 +14,4 @@
 
 ## Agreements
 
-* [Leadership](agreements/leadership-agreement.md)
+* [Leadership](agreements/leadership.md)
